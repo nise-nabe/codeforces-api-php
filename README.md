@@ -33,7 +33,6 @@ array(2) {
       'rating' =>
       int(1169)
       'maxRank' =>
-
       string(6) "expert"
       'maxRating' =>
       int(1657)
@@ -45,3 +44,18 @@ array(2) {
   }
 }
 ```
+
+## API List
+
+| Methods                 |                         |
+|-------------------------|-------------------------|
+| contest.hacks           | contentHacks()          |
+| contest.list            | contestList             |
+| contest.standings       | contestStandings        |
+| contest.status          | contestStatus           |
+| problemset.problems     | problemsetProblems      |
+| problemset.recentStatus | problemsetRecentStatus  |
+| user.info               | userInfo                |
+| user.ratedList          | userRatedList           |
+| user.rating             | userRating              |
+| user.status             | userStatus              |
