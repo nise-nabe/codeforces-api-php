@@ -59,3 +59,7 @@ array(2) {
 | user.ratedList          | userRatedList           |
 | user.rating             | userRating              |
 | user.status             | userStatus              |
+
+### TODO
+
+* Authorization
